@@ -1,0 +1,28 @@
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+:link, :visited {
+  color: unset;
+  text-decoration: none;
+}
+
+header {
+  display:flex;
+  
+}
+
+.logo {
+  font-family: Raleway, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.highlight {
+  color:#2196F3;
+}
+
+nav>ul{
+  list-style: none;
+  display: flex;
+  gap: 50px;
+}
